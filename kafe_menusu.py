@@ -5,3 +5,4 @@ print("Çay", "15 TL", sep=" - ")
 urun= "Çay"
 fiyat= 15
 print(f"{urun} - {fiyat} TL")
+print("İkinci pc testi")
